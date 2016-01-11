@@ -1,6 +1,6 @@
 {
   "name": "electron-bin-path",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Find a path of electron bin installed in local or global node_modules",
   "license": "MIT",
   "repository": "ragingwind/electron-bin-path",
